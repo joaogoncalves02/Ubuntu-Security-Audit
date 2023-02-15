@@ -1,4 +1,4 @@
-# Ubuntu-Security-Audit
+# Ubuntu Security Audit
 
 This is a shell script for Ubuntu that checks for security issues and provides possible solutions. The script can be run in the terminal to perform a security audit of the Ubuntu system and provide recommendations for improving its security.
 
